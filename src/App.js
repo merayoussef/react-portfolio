@@ -27,7 +27,7 @@ function App() {
         contactSelected={contactSelected}
         setContactSelected={setContactSelected}
       ></Nav>
-      <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
+      <img src={coverImage} className="" style={{ width: "100%", maxHeight: "350px" }} alt="cover" />
       <main>
         {!contactSelected ? (
           <>
