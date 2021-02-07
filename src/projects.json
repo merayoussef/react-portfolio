@@ -1,0 +1,43 @@
+
+[
+    {
+      "id": 1,
+      "name": "Sub My Food",
+      "image": "../src/projects/submyfood.PNG",
+      "github": "https://github.com/random-group-name/SubMyFood.git",
+      "deployedapp": "https://random-group-name.github.io/SubMyFood/",
+      "description": "SubMyFood"
+    },
+    {
+      "id": 2,
+      "name": "Winter Wishlist",
+      "image": "",
+      "github": "https://github.com/SMAtoSuccess/SMAtoSuccess.git",
+      "deployedapp": "https://sma-to-success.herokuapp.com/",
+      "description": "Winter Wishlist"
+    },
+    {
+        "id": 3,
+        "name": "Parents Only",
+        "image": "",
+        "github": "https://github.com/parents-only/parents-only.git",
+        "deployedapp": "https://arcane-reaches-47656.herokuapp.com/",
+        "description": "Parents-only"
+    },
+    {
+        "id": 4,
+        "name": "Run Buddy",
+        "image": "",
+        "github": "https://github.com/merayoussef/Project-Run-Buddy.git",
+        "deployedapp": "https://merayoussef.github.io/Project-Run-Buddy/",
+        "description": "Run Buddy"
+      },
+    {
+      "id": 5,
+      "name": "Note Taker",
+      "image": "",
+      "github": "https://github.com/merayoussef/note-taker.git",
+      "deployedapp": "https://gentle-savannah-81959.herokuapp.com/",
+      "description": "Note Taker"
+    }
+]

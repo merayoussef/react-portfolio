@@ -291,22 +291,6 @@ a {
     color: var(--secondary);
 }
 
-.Run-Buddy {
-    background-image: url(../src/assets/img/runbuddy.PNG);
-}
-
-.Horiseon {
-    background-image: url(../src/assets/img/horiseon.PNG);
-}
-
-.Sub-My-Food {
-    background-image: url(../src/assets/img/submyfood.PNG);
-}
-
-.Winter-Wishlist {
-    background-image: url(../src/assets/img/winter_wishlist.PNG);
-}
-
 .work-grid-container {
     display: grid;
     column-gap: 10px;
