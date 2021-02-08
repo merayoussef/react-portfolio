@@ -1,6 +1,6 @@
 import React, { useState} from "react";
 import projects from '../projects.json';
-import 'react-bootstrap';
+import'react-bootstrap';
 
 
 function ProjectCard(props) {

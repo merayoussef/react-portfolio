@@ -1,11 +1,13 @@
 import React from 'react';
 import 'react-bootstrap';
+import { Nav } from 'react-bootstrap';
 
 
 function Navigation(props) {
     const tabs = ['About Me', 'Portfolio', 'Contact'];
     return (
-        <ul className="nav ">
+        <Nav bg='light' expand='lg'>
+            <h1>Mera Youssef</h1>
         {tabs.map(tab => (
             <li className="" key={tab}>
             <a
@@ -19,7 +21,7 @@ function Navigation(props) {
             </a>
             </li>
         ))}
-        </ul>
+        </Nav>
     );
 }
 
